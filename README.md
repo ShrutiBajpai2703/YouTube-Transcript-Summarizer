@@ -6,5 +6,3 @@ Enormous number of video recordings are being created and shared on the Internet
 
 ## Technologies Used
 Python, Flask, HTML, CSS, JavaScript
-
-
